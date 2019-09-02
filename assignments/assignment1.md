@@ -4,6 +4,10 @@ This assignment will cover Capacity Planning and run through a top-down exercise
 for planning a new data center from Application all the way down to Hardware
 planning. 
 
+This assignment can be submitted by committing an updated version of this file
+to your course repo under an 'assignments' folder. It can be in its own markdown
+file, or as the README of its own folder depending on your preference.
+
 1. Define **Capacity** and **Demand** in your own words and provide examples of
    each
 <br>
