@@ -1,5 +1,5 @@
 # CSE410 - Assignment 1
-
+## Due: 9/10/2019 18:00
 This assignment will cover Capacity Planning and run through a top-down exercise
 for planning a new data center from Application all the way down to Hardware
 planning. 

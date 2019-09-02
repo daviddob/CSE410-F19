@@ -1,4 +1,5 @@
-# CSE410 - Assignment 0
+# CSE410 - Assignment 0 
+## Due: 9/10/2019 18:00
 
 This introductory assignment will serve to get partnerships established as well
 as get GitHub repositories set up for use in future assignments. This should be
