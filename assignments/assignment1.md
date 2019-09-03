@@ -1,18 +1,17 @@
 # CSE410 - Assignment 1
 ## Due: 9/10/2019 18:00
-This assignment will cover Capacity Planning and run through a top-down exercise
-for planning a new data center from Application all the way down to Hardware
-planning. 
+This assignment will cover Capacity Planning and run through a exercise
+for planning a new data center top-down, from Application all the way down to Hardware
+planning.
 
 This assignment can be submitted by committing an updated version of this file
 to your course repo under an 'assignments' folder. It can be in its own markdown
-file, or as the README of its own folder depending on your preference.
+file, or as the README of its own folder depending on your preference. If
+calculations are easier for you to perform on pen and paper (as they usually are
+for me), feel free to do so and embed images for your answers.
 
 1. Define **Capacity** and **Demand** in your own words and provide examples of
    each
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -21,23 +20,14 @@ file, or as the README of its own folder depending on your preference.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-3. What are potential problems with increasing and decreasing capacity? (Name
-   three for each)
-<br>
-<br>
-<br>
+3. What are potential problems with increasing and decreasing capacity? Name
+   three for each.
 <br>
 <br>
 <br>
 4. What types of businesses would likely plan to have capacity lead
-   demand? Which ones would likely plan to have capacity follow demand? Why?
-  
-<br>
-<br>
-<br>
+   demand? Which types of businesses would likely plan to have capacity follow
+   demand? Why?
 <br>
 <br>
 <br>
@@ -46,8 +36,8 @@ new data center to support their upcoming product. The product and
 environmental specifications are provided below.
 
 * Product Specifications:
-    * 25,000 Total Peak Concurrent Connections
-    * 6,000 Average Concurrent Connections
+    * 40,000 Total Peak Concurrent Connections
+    * 12,000 Average Concurrent Connections
     * Seasonal demand spikes with flash sales
 
 * Application Instance Specifications:
@@ -55,11 +45,10 @@ environmental specifications are provided below.
     * 2 CPU
     * 1536 MB RAM
     * 5 GB Disk
-    * Runs on Ubuntu Linux (Assume OS requirements are 1 CPU 512 MB RAM and 2 GB
+    * Runs on Ubuntu Linux (Assume OS requirements are 1 CPU, 512 MB RAM, and 2 GB
       Disk)
 
 * Virtualization Specifications
-    * Overhead for Virtual Machines is 5%
     * Hypervisor requires 1 CPU, 2 GB RAM, and 4 GB Disk
 
 * Hardware Specifications (Each Physical Server has the following specifications)
@@ -81,31 +70,12 @@ environmental specifications are provided below.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 6. What are the total application resource requirements?
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
 7. How many physical servers does Company ABC need to purchase for this project?
    How many server racks are required to fit this gear?
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -115,25 +85,13 @@ environmental specifications are provided below.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 9. How much power is required to run the servers? If Company ABC wants to have
    redundant power, how many power circuits do they need?
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 10. What is the total heat output of the servers (in BTU)? How many CRAC units
    are required to dissipate the heat?
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
