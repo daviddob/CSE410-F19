@@ -26,6 +26,7 @@ file, or as the README of its own folder depending on your preference.
 <br>
 3. Convert the following CIDR notation to IP Address ranges and corresponding
    subnet masks (show your work) (i.e. 10.0.0.0-10.0.0.255, 255.255.255.0)
+   
    * 10.128.0.0/16
    * 58.105.46.0/25
    * 192.168.0.0/19
