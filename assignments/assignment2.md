@@ -57,12 +57,13 @@ file, or as the README of its own folder depending on your preference.
 6. Assume you have a network with the following topology where all hosts are trying
    to use as much bandwidth as possible when communicating and bandwidth is
    shared among connections equally. 
-   ```
+   
+```
                               / --- Host E
    Host A --- 3G --- 5G --- 10G --- Host B
                 \             \ --- Host D
                  \ --- Host C
-    ```
+```
     * Host A is talking to Host C
     * Host D is talking to Host A
     * Host E is talking to Host B
