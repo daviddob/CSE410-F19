@@ -54,8 +54,4 @@ file, or as the README of its own folder depending on your preference.
    potential security oversights or examples of where steps have been taken to
    mitigate common oversights. Take a photo of each example and explain how it
    could potentially be used to bypass security measures or how it mitigates a
-   common attack vector. **Do not test to see if you can exploit these
-   oversights, do not post potential oversights to public forums, and do not
-   attempt to gain unauthorized access to locations. This is intended to get you
-   looking for these things in your day to day - not turn you into the next
-   Kevin Mitnick.**
+   common attack vector. **Do not test to see if you can exploit these oversights, do not post potential oversights to public forums, and do not attempt to gain unauthorized access to locations. This is intended to get you looking for these things in your day to day - not turn you into the next Kevin Mitnick. **
