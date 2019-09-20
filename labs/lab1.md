@@ -1,5 +1,5 @@
 # CSE410 - Lab 1
-
+## Due: 9/24/2019 17:00
 This lab will cover getting your servers tested, mounted into the server racks,
 and have you start diagramming and documenting the install you'll be building
 off of for the rest of the semester.
