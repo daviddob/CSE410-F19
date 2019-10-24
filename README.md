@@ -52,7 +52,23 @@ get up to speed will be permitted to take the course.
 | D     | 1.00           | 50.0% - 57.9%   |
 | F     | 0.00           | 49.9% or below  |
 
-Incompletes (I/IU)*: A grade of incomplete (“I”) indicates that additional course work is required to fulfill the requirements of a given course. Students may only be given an “I” grade if they have a passing average in coursework that has been completed and they have well-defined parameters to complete the course requirements that could result in a grade better than the default grade. An “I” grade may not be assigned to a student who did not attend the course. Prior to the end of the semester, students must initiate the request for an “I” grade and receive the instructor’s approval. Assignment of an “I” grade is at the discretion of the instructor.
+Incompletes (I/IU)*: A grade of incomplete (“I”) indicates that additional
+course work is required to fulfill the requirements of a given course. Students
+may only be given an “I” grade if they have a passing average in coursework that
+has been completed and they have well-defined parameters to complete the course
+requirements that could result in a grade better than the default grade. An “I”
+grade may not be assigned to a student who did not attend the course. Prior to
+the end of the semester, students must initiate the request for an “I” grade and
+receive the instructor’s approval. Assignment of an “I” grade is at the
+discretion of the instructor.
+
+## Late Policy
+
+Late submissions will be accepted with a penalty of 25% per day the submission is
+late. A day is considered as 24hrs passed the deadline. i.e If a submission is
+5 hours late it is -25%, 30 hours late it is -50%, and so forth up to a maximum
+of 95hrs 59mins past the deadline. If you are submitting late, you must notify
+me via Slack when you have completed the assignment.
 
 ## Additional Academic Content
 Aside from the assignments and projects, there is no activity required outside
