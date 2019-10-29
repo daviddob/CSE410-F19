@@ -1,7 +1,7 @@
 # CSE410 - Assignment 7
 ## Due: 10/30/2019 09:00
 
-1. Define the three main steps involved in Digital Security. (Remember PDA)
+1. Define the three main steps involved in Digital Security. (Remember PDR)
 <br>
 <br>
 <br>
