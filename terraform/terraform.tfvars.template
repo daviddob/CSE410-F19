@@ -1,0 +1,64 @@
+#===============================================================================
+# VMware vSphere configuration
+#===============================================================================
+
+# vCenter IP or FQDN #
+vsphere_vcenter = "vcenter.lab.com"
+
+# vSphere username used to deploy the infrastructure #
+vsphere_user = "administrator@lab.com"
+
+# Skip the verification of the vCenter SSL certificate (true/false) #
+vsphere_unverified_ssl = "true"
+
+# vSphere datacenter name where the infrastructure will be deployed #
+vsphere_datacenter = "CSE410-Lab"
+
+# vSphere cluster name where the infrastructure will be deployed #
+vsphere_cluster = "cluster1"
+
+#===============================================================================
+# Virtual machine parameters
+#===============================================================================
+
+#The number of vm instances that should be spun up
+vm_count = 2
+
+# The name of the virtual machine (will have -(vm-number) appended to it #
+vm_name_prefix = "terraform-test"
+
+# The datastore name used to store the files of the virtual machine #
+vm_datastore = "VirtualMachines"
+
+# The vSphere network name used by the virtual machine #
+vm_network = "Internal"
+
+# The netmask used to configure the network card of the virtual machine (example: 24) #
+vm_netmask = "24"
+
+# The network gateway used by the virtual machine #
+vm_gateway = "10.10.10.1"
+
+# The DNS servers used by the virtual machine #
+vm_dns = "1.1.1.1,8.8.8.8"
+
+# The vSphere template the virtual machine is based on #
+vm_template = "bionic-server-cloudimg"
+
+# Use linked clone (true/false)
+vm_linked_clone = "false"
+
+# The number of vCPU allocated to the virtual machine #
+vm_cpu = "1"
+
+# The amount of RAM allocated to the virtual machine #
+vm_ram = "1024"
+
+# The IP address range of the virtual machine (CIDR notation) #
+vm_ip_range = "10.10.11.32/29"
+
+# The public key used to login to the default user account #
+vm_default_user_public_key = "ssh-rsa AAAAB3Nza..."
+
+# The password used to login to the default user account #
+vm_default_user_password = "ChangeMe!"
