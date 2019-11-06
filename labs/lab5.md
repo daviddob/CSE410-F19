@@ -1,5 +1,5 @@
 # CSE410 - Lab 5
-## Due: 11/06/2019 09:00
+## Due: 11/08/2019 09:00
 
 This lab will cover internal vs external networking, NAT, gateways, firewalls,
 VPNs and SSL. You will be configuring your own Gateway using pfSense to provide
