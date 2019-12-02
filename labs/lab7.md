@@ -1,5 +1,5 @@
 # CSE410 - Lab 7
-## Due: 12/02/2019 09:00
+## Due: 12/03/2019 17:00
 
 This lab will cover installing and using the Docker container engine, building
 and updating docker images, installing Concourse CI/CD, and building your own
